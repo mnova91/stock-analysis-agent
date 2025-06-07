@@ -93,5 +93,5 @@ pip install yfinance
 ## 💼 Author
 
 **Michael Novakoski**
-Connect on [LinkedIn](https://www.linkedin.com/in/michaelnovakoski](https://www.linkedin.com/in/michael-novakoski-801168134))
+Connect on [LinkedIn](https://www.linkedin.com/in/michael-novakoski-801168134)
 \#Python #Finance #StockAnalysis #Automation #OpenSource
